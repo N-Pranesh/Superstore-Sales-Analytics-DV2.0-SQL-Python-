@@ -80,7 +80,7 @@ This project is part of my portfolio to demonstrate skills in:
 - Python-based ETL & analysis
 - Insight storytelling with business impact
 
-> 📫 Feel free to connect or reach out on [LinkedIn](#) / [Email](#)!
+> 📫 Feel free to connect or reach out on [LinkedIn](www.linkedin.com/in/praneshkumarn) / [Email](npranesh26@gmail.com)!
 
 ---
 
