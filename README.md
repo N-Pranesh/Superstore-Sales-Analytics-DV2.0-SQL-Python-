@@ -67,7 +67,7 @@ This project is a full end-to-end data analysis pipeline built using the **Super
 
 ## 📦 Dataset Source
 
-- [🧾 Superstore Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+- [🧾 Superstore Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)
 
 ---
 
